@@ -8,28 +8,28 @@ a lightweight LAN-based chat application for seamless communication in computer 
 ![Splash Screen](NetMess-main/assets/screen-00.jpg)
 - Splash Screen
 
-![Authentication Window](./assets/screen-01.jpg)
+![Authentication Window](NetMess-main/assets/screen-01.jpg)
 - Authentication Window
 
-![Welcome Screen](./assets/screen-02.jpg)
+![Welcome Screen](NetMess-main/assets/screen-02.jpg)
 - Welcome Screen
 
-![Chatroom Creation Window](./assets/screen-03.jpg)
+![Chatroom Creation Window](NetMess-main/assets/screen-03.jpg)
 - Chatroom Creation Window
 
-![Real-time Chatting Window](./assets/screen-04.jpg)
+![Real-time Chatting Window](NetMess-main/assets/screen-04.jpg)
 - Real-time Chatting Window
 
-![Room Users Details](./assets/screen-05.jpg)
+![Room Users Details](NetMess-main/assets/screen-05.jpg)
 - Room Users Details
 
-![Edit Profile Window](./assets/screen-06.jpg)
+![Edit Profile Window](NetMess-main/assets/screen-06.jpg)
 - Edit Profile Window
 
-![Chat Room Configuration Window](./assets/screen-07.jpg)
+![Chat Room Configuration Window](NetMess-main/assets/screen-07.jpg)
 - Chat Room Configuration Window
 
-![Room History](./assets/screen-08.jpg)
+![Room History](NetMess-main/assets/screen-08.jpg)
 - Room History
 
 ## Features
