@@ -5,7 +5,7 @@ a lightweight LAN-based chat application for seamless communication in computer 
 
 ## Screenshots
 
-![Splash Screen](./assets/screen-00.jpg)
+![Splash Screen](NetMess-main/assets/screen-00.jpg)
 - Splash Screen
 
 ![Authentication Window](./assets/screen-01.jpg)
