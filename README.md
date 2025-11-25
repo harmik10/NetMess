@@ -5,7 +5,7 @@ This software provides private, secure text communication through user anonymiza
 
 ![Splash Screen](./assets/screen-00.jpg)
 - Splash Screen
-
+  
 ![Authentication Window](./assets/screen-01.jpg)
 - Authentication Window
 
