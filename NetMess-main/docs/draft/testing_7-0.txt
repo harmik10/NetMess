@@ -1,0 +1,58 @@
+7.0 TESTING
+
+
+Testing is a procces of executinga program with the intent of finding an error.
+
+
+7.1 TESTING PLAN & STRATEGY
+
+
+The estimated timeline for this project is a semester. thus, the testing activities are to be done in parallel with the development process.
+
+Higher Level Testing
+...................................
+Items to be tested:
+1. Core functionality of the application.
+2. Support functionality of the application.
+3. Application running on different client devices.
+4. Database integration
+
+Lower Level Testing
+..................................
+Items to be tested:
+1. Chatting
+2. Register
+3. Login
+4. Create Chatroom
+5. Join Chatroom
+6. User Profile
+7. Authentication
+8. Chatroom History
+
+
+7.2 TSETING METHODS
+
+
+The testing approach for Chat Applicaton project includes:
+- Unit Uesting
+- Integration Testing
+- Acceptance Testing
+
+Unit testing will be done by developers. Developer must provide unit testing data to tester. Integration testing will be done by tester to ensure that every system modules functions properly to make integrated system work seamlessly. After all major and critical defects are solved it will go through acceptance test which will be done by end user.
+
+
+7.3 TEST CASES
+
+Register account
+
+Purpose: Register
+Required Input: First Name, Last Name, Password, email?, country
+Expected Result: Succesful register if provided details doesn't match to an existing account.
+		 Prompt to handle situation where any required input fields are blank.
+
+Purpose: Login
+Required Input: Username, Password
+Expected Result: Succesful login on valid credentials.
+		 Prompt to handle situation where either one or both input fields are blank.
+
+...
